@@ -8,3 +8,7 @@
 
  新添加得merge上得内容合并测试	
  his is for merger fil
+
+
+
+ version 1
